@@ -1,0 +1,3 @@
+# One URL per line (scheme optional; https assumed)
+https://127.0.0.1:19268/index.php
+# example.com/wp-login.php
